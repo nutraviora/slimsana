@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://janwimittal4-eng.github.io/slimsana/sitemap.xml
+Sitemap: https://slimsana-official.netlify.app/sitemap.xml
